@@ -2,7 +2,7 @@
 
 > A powerful, feature-rich task management web app built with vanilla HTML, CSS, and JavaScript. No frameworks. No dependencies. Just clean DOM mastery.
 
-![TaskForge Preview](preview.png)
+![TaskForge Preview]("C:\Users\omd95\OneDrive\Desktop\IMPORTANT QUESTIONS\Screenshot 2026-04-08 193530.png")
 
 ---
 
