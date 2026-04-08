@@ -39,14 +39,6 @@
 - **Vanilla JavaScript (ES6+)** — DOM manipulation, localStorage, event delegation, closures
 - **No libraries. No build tools. No npm.**
 
-## 📷 How to Add Preview to GitHub
-
-### Step 1 — Take a Screenshot
-- Open `index.html` in your browser
-- Take a screenshot (Windows: `Win + Shift + S` / Mac: `Cmd + Shift + 4`)
-- Crop it to **1280 × 640px** (ideal GitHub social preview size)
-- Save as `preview.png` in the root of your project
-
 
 ## 💡 Key Concepts Demonstrated
 
