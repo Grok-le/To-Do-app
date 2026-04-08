@@ -30,17 +30,7 @@
 | ⬇️ **Export** | Download all tasks as a `.json` file |
 | 🗑️ **Clear Options** | Clear completed or clear all tasks |
 
----
 
-## 📸 Screenshots
-
-> Add your screenshots here after taking them (see [How to Add Preview](#-how-to-add-preview-to-github) below)
-
-| Dark Mode | Light Mode |
-|---|---|
-| ![Dark](screenshots/dark.png) | ![Light](screenshots/light.png) |
-
----
 
 ## 🛠️ Tech Stack
 
@@ -48,54 +38,6 @@
 - **CSS3** — CSS Variables, animations, responsive grid, dark/light theming
 - **Vanilla JavaScript (ES6+)** — DOM manipulation, localStorage, event delegation, closures
 - **No libraries. No build tools. No npm.**
-
----
-
-## 📁 Project Structure
-
-```
-taskforge/
-├── index.html        ← entire app (single file)
-├── preview.png       ← GitHub social preview image
-├── screenshots/
-│   ├── dark.png
-│   └── light.png
-└── README.md
-```
-
----
-
-## ⚙️ Getting Started
-
-### Run Locally
-
-```bash
-# Clone the repo
-git clone https://github.com/YOUR_USERNAME/taskforge.git
-
-# Open in browser
-cd taskforge
-open index.html
-# or just double-click index.html
-```
-
-No server needed. No install needed. It's a single HTML file.
-
-### Deploy to GitHub Pages
-
-```bash
-# 1. Push your code to GitHub (main branch)
-git add .
-git commit -m "initial commit"
-git push origin main
-
-# 2. Go to repo → Settings → Pages
-# 3. Source: Deploy from branch → main → / (root)
-# 4. Save → your site is live at:
-#    https://YOUR_USERNAME.github.io/taskforge
-```
-
----
 
 ## 📷 How to Add Preview to GitHub
 
@@ -105,37 +47,6 @@ git push origin main
 - Crop it to **1280 × 640px** (ideal GitHub social preview size)
 - Save as `preview.png` in the root of your project
 
-### Step 2 — Add to README
-```markdown
-![TaskForge Preview](preview.png)
-```
-
-### Step 3 — Set GitHub Social Preview Image
-1. Go to your GitHub repo
-2. Click **Settings** (top right of the repo page)
-3. Scroll to **Social Preview** section
-4. Click **Edit** → Upload your `preview.png`
-5. Click **Save changes**
-
-Now when anyone shares your GitHub link, it shows the preview image automatically.
-
-### Step 4 — Add Screenshots to README Table
-```bash
-# Create screenshots folder
-mkdir screenshots
-
-# Save dark mode screenshot as screenshots/dark.png
-# Save light mode screenshot as screenshots/light.png
-```
-
-Then in README.md:
-```markdown
-| Dark Mode | Light Mode |
-|---|---|
-| ![Dark](screenshots/dark.png) | ![Light](screenshots/light.png) |
-```
-
----
 
 ## 💡 Key Concepts Demonstrated
 
@@ -158,13 +69,6 @@ Then in README.md:
 - [ ] PWA support (offline + installable)
 - [ ] Cloud sync with Firebase
 
----
-
-## 📄 License
-
-MIT — free to use, modify, and distribute.
-
----
 
 ## 🙋 Author
 
