@@ -8,7 +8,7 @@
 
 ## 🚀 Live Demo
 
-👉 [View Live on GitHub Pages](https://GROK-LE.github.io/taskforge)
+👉 [View Live on GitHub Pages](https://Grok-Le.github.io/taskforge)
 
 ---
 
